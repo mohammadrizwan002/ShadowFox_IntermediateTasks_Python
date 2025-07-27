@@ -25,3 +25,12 @@
 
 ## Proof of Work
 
+<img width="1353" height="691" alt="Image" src="https://github.com/user-attachments/assets/76441d14-f11e-4a9c-8107-a6b9d61bd885" />
+<img width="1366" height="686" alt="Image" src="https://github.com/user-attachments/assets/a4e44875-874c-4379-b88c-eb934333058a" />
+<img width="1366" height="681" alt="Image" src="https://github.com/user-attachments/assets/b5742803-b45e-4d56-ad2d-845d72abb59d" />
+<img width="1366" height="648" alt="Image" src="https://github.com/user-attachments/assets/a5853389-e2ff-455f-82bb-27f0cc3fa9a7" />
+<img width="1366" height="657" alt="Image" src="https://github.com/user-attachments/assets/26ab1ce1-241a-4cbd-80e3-fbc34457e7aa" />
+<img width="1366" height="653" alt="Image" src="https://github.com/user-attachments/assets/ae5d75c0-ebc1-48f3-bb42-24bd658120d4" />
+<img width="1366" height="651" alt="Image" src="https://github.com/user-attachments/assets/e915845d-9890-4c05-92a1-297c9527396e" />
+
+Big thanks to ShadowFox team for giving this useful tasks for learning.
